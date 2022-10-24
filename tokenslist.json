@@ -54,8 +54,8 @@
       "symbol": "FUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_fusd.svg"
-    },
-  ]
+    }
+  ],
   "version": {
     "major": 3,
     "minor": 0,
