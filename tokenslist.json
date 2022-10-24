@@ -1,6 +1,6 @@
 {
   "name": "FastSwap",
-  "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
     "FastSwap",
     "defi"
@@ -21,7 +21,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/usdt.svg"
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
     },
     {
       "chainId": 201022,
