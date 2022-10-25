@@ -17,6 +17,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0x36f15929f9C10d1Bd6B2d42e71E2f69127ebD1E6",
+      "name": "FAST FON TOKEN ",
+      "symbol": "FASTs",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x9a9eD7440a3850c4D7240c9FcA8B7C96802615f0",
       "name": "USDT",
       "symbol": "USDT",
