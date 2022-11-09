@@ -23,6 +23,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg"
     },
+  {
+      "chainId": 201022,
+      "address": "0x95AEf8D7EBf8FeE2bb227E7e864eD6126ea6621d",
+      "name": "FIST COIN ",
+      "symbol": "FIST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/FIST.svg"
+    },
     {
       "chainId": 201022,
       "address": "0x9a9eD7440a3850c4D7240c9FcA8B7C96802615f0",
