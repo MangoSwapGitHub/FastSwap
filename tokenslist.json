@@ -41,6 +41,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0xc4775d44105879c2948c2e6045629fA5b6D84aAF",
+      "name": "OSK TOKEN ",
+      "symbol": "OSK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/OSK.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
