@@ -57,14 +57,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0x61E6B9C96B3Aa482C059A2B03C9E37D724d4dDd6",
-      "name": "Roselle",
-      "symbol": "Roselle",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ros.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
       "name": "CCDS",
       "symbol": "CCDS",
