@@ -49,19 +49,19 @@
     },
     {
       "chainId": 201022,
+      "address": "0x95AEf8D7EBf8FeE2bb227E7e864eD6126ea6621d",
+      "name": "FIST COIN ",
+      "symbol": "FIST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/FIST.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fasts.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0x9bFC836373400e28b9b557Fa08D6132b8bd4F491",
-      "name": "FUSD",
-      "symbol": "FUSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_fusd.svg"
     }
   ],
   "version": {
