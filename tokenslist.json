@@ -57,14 +57,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
-      "name": "CCDS",
-      "symbol": "CCDS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ccdc.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0x9bFC836373400e28b9b557Fa08D6132b8bd4F491",
       "name": "FUSD",
       "symbol": "FUSD",
