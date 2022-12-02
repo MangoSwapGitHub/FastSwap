@@ -48,7 +48,7 @@
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/OSK.svg"
     },
     {
-      "chainId": 201022,
+      "chainId": 201022,https://github.com/FastSwapcn/FastSwap/security
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
@@ -62,6 +62,14 @@
       "symbol": "Roselle",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ros.svg"
+    },
+    {
+      "chainId": 201022,
+      "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
+      "name": "CCDS",
+      "symbol": "CCDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/CCDS.svg"
     },
     {
       "chainId": 201022,
