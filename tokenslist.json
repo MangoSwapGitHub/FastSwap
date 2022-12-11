@@ -57,6 +57,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
+      "name": "SHJ ",
+      "symbol": "SHJ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/shj.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x936954a621c7768e2830ce44f36b9ee0a0e5930d",
       "name": "SH ",
       "symbol": "SH",
