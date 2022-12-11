@@ -65,14 +65,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0x936954a621c7768e2830ce44f36b9ee0a0e5930d",
-      "name": "SH ",
-      "symbol": "SH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/SH.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
