@@ -65,6 +65,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0x36BA5052A6dE24ed4d66143ECb4f629B5118f932",
+      "name": "Super Fast",
+      "symbol": "SFAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/shj.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
