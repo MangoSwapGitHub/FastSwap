@@ -76,7 +76,7 @@
       "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
       "name": "nuwa",
       "symbol": "nuwa",
-      "decimals": 18,
+      "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
     },
     {
