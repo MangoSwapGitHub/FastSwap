@@ -25,6 +25,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
+      "name": "nuwa",
+      "symbol": "nuwa",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
       "name": "CCDS",
       "symbol": "CCDS",
@@ -70,14 +78,6 @@
       "symbol": "SFAST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
-      "name": "nuwa",
-      "symbol": "nuwa",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
     },
     {
       "chainId": 201022,
