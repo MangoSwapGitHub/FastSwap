@@ -73,6 +73,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
+      "name": "nuwa",
+      "symbol": "nuwa",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
       "name": "FAST TOKEN ",
       "symbol": "FAST",
