@@ -70,14 +70,6 @@
       "symbol": "SFAST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0x01e04EA78D56b4C8845D427B230379cc8fB547e2",
-      "name": "FAST TOKEN ",
-      "symbol": "FAST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fasts.svg"
     }
   ],
   "version": {
