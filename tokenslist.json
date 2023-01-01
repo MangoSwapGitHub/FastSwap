@@ -65,14 +65,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0x19541Ea2bf139c9DeB29e25E8805c31ed6eD7A83",
-      "name": "FSC BANK",
-      "symbol": "FCN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/bank.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
       "name": "nuwa",
       "symbol": "nuwa",
