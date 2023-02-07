@@ -87,7 +87,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
     }
-  ],
     {
       "name": "Cardano Token",
       "symbol": "ADA",
@@ -872,6 +871,7 @@
       "decimals": 18,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xFbe0b4aE6E5a200c36A341299604D5f71A5F0a48/logo.png"
     }
+  ],
   "version": {
     "major": 2,
     "minor": 0,
