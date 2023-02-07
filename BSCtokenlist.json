@@ -1,12 +1,12 @@
 {
-  name BSCFastSwap,
-  logoURI httpsraw.githubusercontent.comFastSwapcnFastSwapmainfast.svg,
-  keywords [
-    BSCFastSwap,
-    defi
+  "name": "BSCFastSwap",
+  "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg",
+  "keywords": [
+    "BSCFastSwap",
+    "defi"
   ],
-  timestamp 2021-05-27T203700.000+0000,
-  tokens [
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
    {
       "name": "WBNB Token",
       "symbol": "WBNB",
