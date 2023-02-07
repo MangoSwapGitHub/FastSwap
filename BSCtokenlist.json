@@ -21,6 +21,14 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
+      "name": "Super Fast",
+      "symbol": "SFAST",
+      "address": "0xEe93a5c4521C587cbe945fa968Fb5b7C524dD568",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
+    },
+    {
       "name": "Binance Pegged BUSD",
       "symbol": "BUSD",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
