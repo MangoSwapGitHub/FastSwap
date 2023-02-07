@@ -73,6 +73,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0xbEB5087491F8f142beADA9D900D94AF825F04aF2",
+      "name": "RunRabbit",
+      "symbol": "RunRabbit",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/RunRabbit.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0x36BA5052A6dE24ed4d66143ECb4f629B5118f932",
       "name": "Super Fast",
       "symbol": "SFAST",
