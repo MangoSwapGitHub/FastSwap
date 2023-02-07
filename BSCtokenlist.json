@@ -1,11 +1,16 @@
 {
-  "name": "BSCFastSwap",
-  "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg",
+  "name": "FastSwap Top 100",
+  "timestamp": "2022-05-28T04:52:56.475Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 13
+  },
+  "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg",
   "keywords": [
-    "BSCFastSwap",
-    "defi"
+    "Fastswap",
+    "top 100"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
    {
       "name": "WBNB Token",
