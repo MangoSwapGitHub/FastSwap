@@ -29,6 +29,14 @@
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg"
     },
     {
+      "name": "OSK TOKEN",
+      "symbol": "OSK",
+      "address": "0x293F1954C8f851A274811d396BB52eaDcD503189",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "hhttps://raw.githubusercontent.com/FastSwapcn/FastSwap/main/OSK.svg"
+    },
+    {
       "name": "Binance Pegged BUSD",
       "symbol": "BUSD",
       "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
