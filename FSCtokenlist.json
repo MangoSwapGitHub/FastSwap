@@ -33,6 +33,14 @@
     },
     {
       "chainId": 201022,
+      "address": "0xCb81280383ba6F112d0Ac8c5E3ec0f0c98ddF7d8",
+      "name": "X-Super Fast",
+      "symbol": "X-SFAST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/X-SFAST.svg"
+    },
+    {
+      "chainId": 201022,
       "address": "0xf75f541F2B12F5647DeEa400957E1B8f7388a390",
       "name": "Roselle",
       "symbol": "Roselle",
