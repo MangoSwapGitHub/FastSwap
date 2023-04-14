@@ -29,7 +29,7 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/sfast.svg"
     },
     {
-      "name": "OSK TOKEN",
+      "name": "OSK Coin",
       "symbol": "OSK",
       "address": "0x131bcff9b338e2ab091b59de575baab7071cac8e",
       "chainId": 56,
@@ -37,15 +37,7 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
     },
     {
-      "name": "New Wish",
-      "symbol": "New WISH",
-      "address": "0xa1e637397a733a1ef7220ec4a93c68644acd23ed",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NWISH.svg"
-    },
-    {
-      "name": "OSK Coin",
+      "name": "OSK TOKEN",
       "symbol": "OSK",
       "address": "0xF61165d278fB1efa3abC3f7b74F3aF0EbEa42793",
       "chainId": 56,
