@@ -1,5 +1,5 @@
 {
-  "name": "FastSwap Tokenslist",
+  "name": "FastSwaplist",
   "timestamp": "2023-02-15T08:32:51.867Z",
   "version": {
     "major": 2,
@@ -9,7 +9,7 @@
   "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/sfast.svg",
   "keywords": [
     "FastSwap",
-    "Tokenslist"
+    "list"
   ],
   "tokens": [
     {
