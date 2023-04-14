@@ -29,22 +29,6 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/sfast.svg"
     },
     {
-      "name": "OSK TOKEN",
-      "symbol": "OSK",
-      "address": "0xF61165d278fB1efa3abC3f7b74F3aF0EbEa42793",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/OSK.svg"
-    },
-    {
-      "name": "New Wish",
-      "symbol": "NWISH",
-      "address": "0x535c49cAfec88A6f9005cBCbD4Ee70ba6Dc504b5",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NWISH.svg"
-    },
-    {
       "name": "Gold Seed",
       "symbol": "GSD",
       "address": "0xB12E8Eb6b1F24e14381514d2f3B75e7c61487016",
