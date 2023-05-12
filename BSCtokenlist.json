@@ -61,12 +61,12 @@
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x6743665257c429605aa344ed04dff7a183a50296/logo.jpg"
     },
     {
-      "name": "ZM",
-      "symbol": "ZM",
-      "address": "0x4ec59bbE3D46473C4fcCecaF7ddBe8d80d1767A8",
+      "name": "FistToken",
+      "symbol": "FIST",
+      "address": "0xC9882dEF23bc42D53895b8361D0b1EDC7570Bc6A",
       "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8/logo.png"
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/FIST.svg"
     },
     {
       "name": "PancakeSwap Token",
