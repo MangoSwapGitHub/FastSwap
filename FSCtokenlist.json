@@ -33,14 +33,6 @@
     },
     {
       "chainId": 201022,
-      "address": "0xCb81280383ba6F112d0Ac8c5E3ec0f0c98ddF7d8",
-      "name": "X-Super Fast",
-      "symbol": "X-SFAST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/X-SFAST.svg"
-    },
-    {
-      "chainId": 201022,
       "address": "0xf75f541F2B12F5647DeEa400957E1B8f7388a390",
       "name": "Roselle",
       "symbol": "Roselle",
@@ -62,46 +54,6 @@
       "symbol": "FIST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/FIST.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0xfbad7632e98c967b503e55574d184cf014a0541c",
-      "name": "RunRabbit",
-      "symbol": "RunRabbit",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/RunRabbit.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0xF6aa78632282C8FaAcE2cB4aC0Af4A8696AF5Ade",
-      "name": "CCDS",
-      "symbol": "CCDS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/ccdc.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0x5007d8df2331B70df0A962Dd747e510690f610FA",
-      "name": "nuwa",
-      "symbol": "nuwa",
-      "decimals": 10,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/NUWA.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0xfe77a79Ffa08DC522fe085c357e99E43871747bF",
-      "name": "SHJ ",
-      "symbol": "SHJ",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/shj.svg"
-    },
-    {
-      "chainId": 201022,
-      "address": "0x36f15929f9C10d1Bd6B2d42e71E2f69127ebD1E6",
-      "name": "FAST FON TOKEN ",
-      "symbol": "FASTs",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/fast.svg"
     }
   ],
   "version": {
