@@ -21,12 +21,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
     },
     {
-      "name": "Super Fast",
-      "symbol": "SFAST",
-      "address": "0xEe93a5c4521C587cbe945fa968Fb5b7C524dD568",
+      "name": "XFST Crypto",
+      "symbol": "XFST",
+      "address": "0x3e23aa1F41EB9F8C0832c23a1C5E05F73D3350D5",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/sfast.svg"
+      "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/XFSTlogo.png"
     },
     {
       "name": "OSK TOKEN",
