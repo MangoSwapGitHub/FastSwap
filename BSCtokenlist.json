@@ -29,9 +29,9 @@
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/XFSTlogo.png"
     },
     {
-      "name": "OSK TOKEN",
+      "name": "OSK Token",
       "symbol": "OSK",
-      "address": "0xF61165d278fB1efa3abC3f7b74F3aF0EbEa42793",
+      "address": "0x04fA9Eb295266d9d4650EDCB879da204887Dc3Da",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/FastSwapcn/FastSwap/main/OSK.svg"
@@ -43,22 +43,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/Token/NWISH.svg"
-    },
-    {
-      "name": "Gold Seed",
-      "symbol": "GSD",
-      "address": "0xB12E8Eb6b1F24e14381514d2f3B75e7c61487016",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0xb12e8eb6b1f24e14381514d2f3b75e7c61487016/logo.png"
-    },
-    {
-      "name": "QJ",
-      "symbol": "QJ",
-      "address": "0x6743665257C429605aa344ed04dFF7A183A50296",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/MangoSwapGitHub/MangoSwap/main/BSC/0x6743665257c429605aa344ed04dff7a183a50296/logo.jpg"
     },
     {
       "name": "FistToken",
